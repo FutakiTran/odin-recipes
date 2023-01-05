@@ -1,0 +1,47 @@
+.homepage-title {
+    color: white;
+    background-color: black;
+    font-size: 52px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+button {
+    color: black;
+    background-color: lightblue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-title {
+    color: white;
+    background-color: black;
+    font-size: 52px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.sub-title {
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.sub-sub-title {
+    color: black;
+    background-color: lightgrey;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.details {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
