@@ -5,6 +5,11 @@
     font-weight: 700;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    height: auto;
+    width: 1600px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 button {
@@ -46,6 +51,8 @@ button {
 
 .image {
     display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
     height: auto;
