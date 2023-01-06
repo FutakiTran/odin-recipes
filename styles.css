@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+
 .homepage-title {
     color: white;
     background-color: black;
@@ -17,6 +22,14 @@ button {
     background-color: lightblue;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+}
+
+.buttons {
+    margin:auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .recipe-title {
@@ -34,6 +47,11 @@ button {
     font-size: 40px;
     font-weight: 700;
     text-align: center;
+    height: auto;
+    width: auto;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .sub-sub-title {
@@ -42,6 +60,11 @@ button {
     font-size: 30px;
     font-weight: 700;
     text-align: center;
+    height: auto;
+    width: 1600px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .details {
